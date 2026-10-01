@@ -1,0 +1,8 @@
+{
+  "name": "usability-tracker",
+  "version": "1.0.0",
+  "description": "Tiny dependency-free JavaScript library that tracks UX friction: rage clicks, dead clicks, form errors, scroll depth and task time.",
+  "main": "src/usability-tracker.js",
+  "keywords": ["usability", "ux", "analytics", "rage-clicks"],
+  "license": "MIT"
+}
